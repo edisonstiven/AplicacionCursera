@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mon Premier Projet</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="enter_button">Entrer</string>
+    <string name="activate_wind">Activer Vent</string>
+    <string name="go_to_settings">Aller aux Paramètres</string>
+</resources>

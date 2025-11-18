@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Project</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="enter_button">Enter</string>
+    <string name="activate_wind">Activate Wind</string>
+    <string name="go_to_settings">Go to Settings</string>
+</resources>
